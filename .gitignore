@@ -1,0 +1,13 @@
+/node_modules/
+/.idea/
+/package-lock.json
+/.eslintrc.js
+/STORAGE/Q7V5PSWT/commands.json
+/STORAGE/
+/logs/
+/DELETED/
+/STORAGE_SENT/Q7V5PSWT/
+/STORAGE_SENT/
+/STORAGE_LAST_INVOICE/
+/WAPPDATA/
+/generated/
